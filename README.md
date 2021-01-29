@@ -80,3 +80,4 @@ Tus tareas van a consistir en:
 - Se debe utilizar la clase Entrada para realizar la entrada por teclado.
 - El programa debe pasar todas las pruebas que van en el esqueleto del proyecto y toda entrada del programa será validada, para evitar que el programa termine abruptamente debido a una excepción. Además, que ni decir tiene, el programa no debe contener ningún error léxico, sintáctico. de depencias, etc.
 - La corrección ortográfica tanto en los comentarios como en los mensajes que se muestren al usuario.
+Alumno : José Antonio Del Rey Martínez
